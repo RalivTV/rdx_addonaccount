@@ -13,4 +13,4 @@ server_scripts {
 	'server/main.lua'
 }
 
-dependency 'redm_extended'
+dependency 'rdx_core'
