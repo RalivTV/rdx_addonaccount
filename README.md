@@ -1,5 +1,12 @@
-# rdx_addonaccount
+# RDX Addonaccount
+Addonaccount System for RDX Core
 
-# 1- Extract the file, put it in your resource folder.
-# 2- Put in your server.sfg ensure rdx_addonaccount
-# Have fun
+## Requirements
+- [RDX Core]()
+
+## How to install
+* Download the lastest version of RDX Addonaccount
+* Copy and paste ```rdx_addonaccount``` folder to ```resources/rdx_addonaccount```
+* Insert the .sql file into your database.
+* Add ```ensure rdx_addonaccount``` to your ```server.cfg``` file
+* Now you are ready!
